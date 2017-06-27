@@ -15,7 +15,7 @@
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 
     <!-- To enable spring annotation based configuration -->
-    <context:component-scan base-package="com.sso.cas"/>
+    <context:component-scan base-package="com.css.sso.cas"/>
     <context:annotation-config/>
     <mvc:default-servlet-handler/>
 
